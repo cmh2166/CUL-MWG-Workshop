@@ -47,3 +47,5 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+theme: jekyll-theme-tactile
